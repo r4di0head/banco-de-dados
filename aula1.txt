@@ -1,3 +1,5 @@
+Atividade 1
+
 1- na decada de 70
 
 2-E.F. Codd
@@ -12,3 +14,7 @@
 - modelo de dados físico
 
 6- informações armazenadas de maneira segura, menos sujeitas a ataques e possibilidades de perdas, aumento da segurança.
+
+----------------------------------------------------------------------------------------------------------------------
+Atividade 2
+https://docs.google.com/spreadsheets/d/104-SQwuGk6mEgTyCueZd0301sIqwTofMXWN9jDhZFAY/edit?usp=sharing

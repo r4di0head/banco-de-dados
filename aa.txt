@@ -1,0 +1,14 @@
+1- na decada de 70
+
+2-E.F. Codd
+
+3- o banco de dados é o conjunto de dados organizados de forma facilmente acessivel, e o sistema gerenciador de banco de dados é para criar dados em tabelas
+
+4-é um conjunto estruturado de dados, normalmente armazenados em sistemas organizados e que operam eletronicamente.
+
+5-
+- modelo de dados conceitual
+- modelo de dados lógico
+- modelo de dados físico
+
+6- informações armazenadas de maneira segura, menos sujeitas a ataques e possibilidades de perdas, aumento da segurança.
